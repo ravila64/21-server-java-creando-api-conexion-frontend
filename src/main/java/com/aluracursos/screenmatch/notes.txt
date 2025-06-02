@@ -1,0 +1,3 @@
+2066-java-persitencia-de-datos-y-consultas-con-Spring-JPA-aula-05
+copie codigo de este proyecto teminado por alura, para llevarlo a un app frontend
+02/06/2025
