@@ -1,0 +1,8 @@
+¿Por qué el Modelo MVC es importante?
+¡Imagina que estás construyendo una casa! Si simplemente comienzas a construir sin un plan, puedes terminar con habitaciones extrañas o estructuras mal posicionadas. Pero, si defines bien los proyectos antes de empezar, tu casa será mejor organizada y será más fácil de vivir. Lo mismo se aplica al código de un programa, donde la casa es equivalente a tu aplicativo y el plan es el modelo MVC.
+
+Al seguir el modelo MVC, dividimos el código de nuestra aplicación en tres partes:
+
+1 - El Modelo, que es donde todos los datos y las reglas de negocio son procesados.
+2 - La Vista, que es la interfaz de usuario, donde ves los resultados de las operaciones.
+3 - Y el Controlador, que es como el cerebro que opera las otras dos partes, recibiendo entradas del usuario y enviando comandos para el Modelo y la Vista.
