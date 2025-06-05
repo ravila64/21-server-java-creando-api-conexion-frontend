@@ -9,7 +9,7 @@ import java.time.format.DateTimeParseException;
 public class Episodio {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Long Id;
+    private Long id;
     private Integer temporada;
     private String titulo;
     private Integer numeroEpisodio;
@@ -35,6 +35,14 @@ public class Episodio {
             this.fechaDeLanzamiento = null;
         }
 
+    }
+
+    public Long getId() {
+        return id;
+    }
+
+    public void setId(Long id) {
+        this.id = id;
     }
 
     public Serie getSerie() {
